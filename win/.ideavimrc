@@ -1,0 +1,24 @@
+" 开启行号
+set nu
+" 开启相对行号
+set relativenumber
+
+" 搜索高亮
+set hlsearch
+" 增量搜索
+set incsearch
+" Ctrl - L 清除上次搜索高亮
+nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
+" 忽略大小写
+set ignorecase
+set smartcase
+set keep-english-in-normal-and-restore-in-insert
+
+" 引导键为空格
+let mapleader=" "
+" 开启 easymotion
+set easymotion
+" 开启 vim-surround
+set surround
+" 开启 vim-commentary
+set commentary
