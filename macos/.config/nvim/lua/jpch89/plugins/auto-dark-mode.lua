@@ -2,8 +2,8 @@ return {
 	"f-person/auto-dark-mode.nvim",
 	opts = {
 		set_dark_mode = function()
-			vim.cmd("colorscheme onedark_vivid")
 			vim.opt.background = "dark"
+			vim.cmd("colorscheme onedark_vivid")
 
 			-- to configure lazy pending updates count
 			local lualine = require("lualine")
@@ -31,8 +31,8 @@ return {
 			)
 		end,
 		set_light_mode = function()
-			vim.cmd("colorscheme onelight")
 			vim.opt.background = "light"
+			vim.cmd("colorscheme onelight")
 
 			-- to configure lazy pending updates count
 			local lualine = require("lualine")
@@ -60,7 +60,7 @@ return {
 			)
 		end,
 		-- 10s to update
-		update_interval = 10000,
+		update_interval = 3000,
 		fallback = "dark",
 	},
 }

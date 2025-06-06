@@ -28,5 +28,6 @@ return {
 				transparency = true,
 			},
 		})
+		vim.cmd("colorscheme onedark_vivid")
 	end,
 }
