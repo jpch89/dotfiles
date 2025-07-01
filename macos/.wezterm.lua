@@ -5,8 +5,8 @@ local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 
 -- This is where you actually apply your config choices
-config.font = wezterm.font("MesloLGS Nerd Font Mono")
-config.font_size = 16
+config.font = wezterm.font("FiraMono Nerd Font")
+config.font_size = 14
 config.enable_tab_bar = false
 -- config.window_decorations = "RESIZE"
 -- config.window_background_opacity = 0.8
