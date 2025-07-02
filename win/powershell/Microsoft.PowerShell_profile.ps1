@@ -1,7 +1,5 @@
-Import-Module "Oh-My-Posh" -DisableNameChecking -NoClobber
-
 # Git aliases
-function Get-GitStatus { & git status $args }
+function Get-GitStatus { & git status -sb $args }
 New-Alias -Name gst -Value Get-GitStatus -Force -Option AllScope
 
 function Get-GitAddAll{ & git add --all $args }
