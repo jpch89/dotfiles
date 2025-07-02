@@ -15,3 +15,8 @@
 - `gpr`：`git pull --rebase`
 - `gco`：`git checkout`
 - `gcb`：`git checkout -b`
+
+**oh-my-posh**
+
+- [GitHub 仓库地址](https://github.com/pecigonzalo/Oh-My-Posh)
+- 
