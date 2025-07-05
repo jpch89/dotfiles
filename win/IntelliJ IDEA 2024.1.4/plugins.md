@@ -4,7 +4,6 @@
 - `Atom Material Icons`：文件图标。
 - `Atom One Theme`：主题配色，有明亮和暗黑风格。
 - `CodeGeeX: AI Coding Assistant`：`AI` 代码辅助插件。
-- `Color Brackets`：彩色括号。
 - `GenerateAllSetter Postfix Completion`：可以使用 `user.allset` 生成 `setter`，使用 `user.allsetn` 生成不带默认值的 `setter`，使用 `user.allget` 生成 `getter`，`user.allbuilder` 生成 `Lombok` 的 `@Builder` 调用链。
 - `GitToolBox`：查看某一行是谁编辑的。
 - `Grep Console`：高亮控制台的警告信息。
@@ -15,4 +14,5 @@
 - `Json Parser`：在 `IDEA` 中验证和格式化字符串，不用打开浏览器。
 - `Maven Helper`：用于快速找到并处理冲突的依赖。
 - `MyBatisX`：可以在接口和 `xml` 之间跳转，还可以自动生成 `xml` 代码。
+- `Rainbow Brackets Lite - Free and OpenSource"：彩虹括号。
 - `Statistic`：统计代码行数。
