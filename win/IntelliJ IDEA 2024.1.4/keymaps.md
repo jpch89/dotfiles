@@ -24,3 +24,5 @@
 - 重构（重命名）：`Shift` + `F6`
 - 加载 `Maven` 变更：`Ctrl` + `Shift` + `O`
 - 优化导入：`Ctrl` + `Alt` + `O`
+- 拷贝绝对路径：`Ctrl` + `Shift` + `C`
+- 拷贝相对路径：`Ctrl` + `Alt` + `Shift` + `C`
